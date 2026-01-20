@@ -23,7 +23,7 @@ Pendant mes analyse pour un projet de microcontroleur durant nos cours, j'ai vou
 # Hardware
 Le système est conçu autour d'une architecture simple. Comme j'avais pas les autres composants du materiel Arduino, j'ai utilisé l'ESP32 comme unique microcontrôleur, j'ai profité de ses broches GPIO pour connecter directement les capteurs et le buzzer.
 
-![Architecture du système](Diagramme du systeme Home Intrsusion Security.drawio.jpg)
+![Architecture du système](Diagramme%20du%20systeme%20Home%20Intrsusion%20Security.drawio.jpg)
 # Nomenclature (BOM)
 Pour ce projet, j'ai choisi d'utiliser une configuration minimale centrée sur l'ESP32. Les capteurs physiques sont simulés par des connexions directes sur les broches GPIO, ce qui permet de tester toute la logique du système de sécurité sans composants supplémentaires.
 
